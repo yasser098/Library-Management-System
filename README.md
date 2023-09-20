@@ -60,7 +60,7 @@ For more information, refer to the project guidelines provided in the course mat
 The project is developed using the concepts covered in the course lectures and labs. The use of any additional, uncovered material or libraries is not allowed. Each team member should contribute equally to the project.
 
 For any questions or clarifications, feel free to reach out to the team members or the course instructor.
+### Connect with Me :
 
----
-
-**Appendix A: Sample Runs** (Refer to the provided document for sample runs)
+<a href="https://www.linkedin.com/in/yasseralian/" target="_blank"><img src="https://img.shields.io/badge/-Yasser%20Alian-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/yasserelean" target="_blank"><img src="https://img.shields.io/badge/-Yasser%20Alian-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
